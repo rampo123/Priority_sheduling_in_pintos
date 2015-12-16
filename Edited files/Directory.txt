@@ -1,0 +1,10 @@
+thread.c - \Desktop\pintos\src\threads\
+synch.c  - \Desktop\pintos\src\threads\
+alarm-hi - \Desktop\pintos\src\tests\threads
+priority-change - \Desktop\pintos\src\tests\threads
+priority-preepmt- \Desktop\pintos\src\tests\threads
+priority-sema   - \Desktop\pintos\src\tests\threads
+
+C code- 1. FCFS (no of process, arrival time, burst time)
+		2. Preemptive Priority Scheduling (no of process, arrival time, burst time, priority)
+		3. SJF (no of process, arrival time, burst time)
