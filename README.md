@@ -18,20 +18,23 @@ Follow this steps for running the code compiled-
 	10.$ cd $HOME/os-pg/pintos/src/utils/; $ pintos run alarm-multiple
 	(Note: Replace $HOME by your home directory path in every step)
 
-#C. Hello in Pintos
+#B. Hello in Pintos
 	1. make clean in $HOME/os-pg/pintos/src/threads/
 	2. make
 	3. pintos run alarm-hi
 
-# Now replace all files in the edited files folder with the corresponding files in pintos.eg-:replace the orignal thread.c file of pintos with the file new thread.c file containg in edited files folder.Similarly replace all the files in edited files folder. 
+#C.Replacing files
+Now replace all files in the edited files folder with the corresponding files in pintos.eg-:replace the orignal thread.c file of pintos with the file new thread.c file containg in edited files folder.Similarly replace all the files in edited files folder. 
 
-#D. Compile C code, based on test cases file(c codes folder contains all the c codes of three scheduling algorithms)
+#D.Running the c codes
+Compile C code, based on test cases file(c codes folder contains all the c codes of three scheduling algorithms)
 	1. FCFS (no of process, arrival time, burst time)
 	2. Preemptive Priority Scheduling (no of process, arrival time, burst time, priority)
 	3. SJF (no of process, arrival time, burst time)
 		Note the average Turnaround and waitng time for each test case for all three sheduling algorithms and analyse them by plotting graph.
 
-#E. Testing test cases in Pintos(to check if priority sheduling is implemented or not)
+#E. Testing 
+Test cases in Pintos(to check if priority sheduling is implemented or not)
 	1. pintos run priority-change
 	2. pintos run priority-preepmt
 	3. pintos run priority-sema 
