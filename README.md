@@ -24,14 +24,14 @@ Follow this steps for running the code compiled-
 	3. pintos run alarm-hi
 
 #C.Replacing files
-Now replace all files in the edited files folder with the corresponding files in pintos.eg-:replace the orignal thread.c file of pintos with the file new thread.c file containg in edited files folder.Similarly replace all the files in edited files folder. 
+Now replace all files in the edited files folder with the corresponding files in pintos.eg-:replace the orignal thread.c file of pintos with the  new thread.c file containg in edited files folder.Similarly replace all the files in edited files folder. 
 
 #D.Running the c codes
 Compile C code, based on test cases file(c codes folder contains all the c codes of three scheduling algorithms)
 	1. FCFS (no of process, arrival time, burst time)
 	2. Preemptive Priority Scheduling (no of process, arrival time, burst time, priority)
 	3. SJF (no of process, arrival time, burst time)
-		Note the average Turnaround and waitng time for each test case for all three sheduling algorithms and analyse them by plotting graph.
+		Note the average Turnaround and waitng time for each test case for all three scheduling algorithms and analyse them by plotting graph.
 
 #E. Testing 
 Test cases in Pintos(to check if priority sheduling is implemented or not)
@@ -39,5 +39,6 @@ Test cases in Pintos(to check if priority sheduling is implemented or not)
 	2. pintos run priority-preepmt
 	3. pintos run priority-sema 
 
-#There is a project report which briefly explains the project 
+#Report
+There is a project report which briefly explains the project 
 
