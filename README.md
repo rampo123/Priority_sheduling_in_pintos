@@ -1,8 +1,8 @@
 # Priority_sheduling_in_pintos
 
-Analysing scheduling algorithms, deeply studying and implementing  priority scheduling in pintos.Download the pintos.
+Analysing scheduling algorithms, deeply studying and implementing  priority scheduling in pintos.Download the PintOS.
 
-Follow this steps for running the code compiled-
+Follow this steps for running the code -
 #A. Compiling Pintos
 	1. sudo apt-get install qemu
 	2. Download Pintos. Extract it in some directory say $HOME/os-pg/
