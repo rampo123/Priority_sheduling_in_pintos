@@ -1,3 +1,4 @@
+
 # Priority_sheduling_in_pintos
 
 Analysing scheduling algorithms, deeply studying and implementing  priority scheduling in pintos.Download the PintOS.
@@ -41,4 +42,8 @@ Test cases in Pintos(to check if priority sheduling is implemented or not)
 
 #Report
 There is a project report which briefly explains the project 
+ 
+#license
 
+Copyright © 2004, 2005, 2006 Board of Trustees, Leland Stanford Jr. University. All rights reserved. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
